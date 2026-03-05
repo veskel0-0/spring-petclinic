@@ -36,7 +36,7 @@ import jakarta.validation.constraints.NotBlank;
 
 /**
  * Simple JavaBean domain object representing an owner.
- *
+ * Hope pets will get a nice owners
  * @author Ken Krebs
  * @author Juergen Hoeller
  * @author Sam Brannen
