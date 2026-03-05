@@ -35,7 +35,7 @@ import jakarta.persistence.Table;
 
 /**
  * Simple business object representing a pet.
- *
+ * Dog/cat/fish/frog
  * @author Ken Krebs
  * @author Juergen Hoeller
  * @author Sam Brannen
