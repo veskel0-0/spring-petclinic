@@ -22,6 +22,7 @@ import jakarta.persistence.Table;
 
 /**
  * @author Juergen Hoeller Can be Cat, Dog, Hamster...
+ * Fish? Pig? Parrot?
  */
 @Entity
 @Table(name = "types")
