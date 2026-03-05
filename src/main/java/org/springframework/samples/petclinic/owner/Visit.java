@@ -27,7 +27,7 @@ import jakarta.validation.constraints.NotBlank;
 
 /**
  * Simple JavaBean domain object representing a visit.
- *
+ * Who are we visiting though?
  * @author Ken Krebs
  * @author Dave Syer
  */
