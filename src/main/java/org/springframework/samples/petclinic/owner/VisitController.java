@@ -32,11 +32,12 @@ import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 
 /**
  * @author Juergen Hoeller
- * @author Ken Krebs
+ * @author Ken Krebs 
  * @author Arjen Poutsma
  * @author Michael Isvy
  * @author Dave Syer
  * @author Wick Dynex
+ * And me? u know<3
  */
 @Controller
 class VisitController {
