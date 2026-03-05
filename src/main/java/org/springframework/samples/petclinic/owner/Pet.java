@@ -35,7 +35,7 @@ import jakarta.persistence.Table;
 
 /**
  * Simple business object representing a pet.
- * Pig? Cow? Who knows)
+ * Nah, I changed my mind? bye
  * @author Ken Krebs
  * @author Juergen Hoeller
  * @author Sam Brannen
